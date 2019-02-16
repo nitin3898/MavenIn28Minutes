@@ -1,5 +1,5 @@
 /**
- * Hello world!
+ * Hello Maven world!
  *
  */
 public class App 
